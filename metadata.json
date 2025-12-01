@@ -1,0 +1,7 @@
+{
+  "name": "AI Inventory Master",
+  "description": "An intelligent, voice-activated inventory management system with real-time tracking, analytics, and unlimited product hierarchy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
